@@ -95,3 +95,13 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 * Scrum workflow
 ---
 
+## 🗣 Languages
+
+| Language | Level | Speaking | Reading | Writing |
+|----------|-------|----------|---------|---------|
+| Spanish | 🟢 Native | 🟢 Native | 🟢 Native | 🟢 Native |
+| English | 🔵 A2 | 🔵 Basic | 🔵 Basic | 🔵 Basic |
+| French | 🟡 B1 | 🟡 Intermediate | 🟡 Intermediate | 🟡 Basic-Intermediate |
+| Portuguese | 🔵 A2 | 🔵 Basic | 🟡 Intermediate | 🔵 Basic |
+
+
