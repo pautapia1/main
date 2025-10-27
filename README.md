@@ -1,7 +1,7 @@
 # 👩‍💻 Portfolio
 
 ### 👋 About Me
-I’m **Paula**, a **Senior QA Engineer**, **Programmer**, and **Systems Analyst** with experience since **2008**.  
+I’m **Paula**, a **Senior QA Automation Engineer**, **Programmer**, and **Systems Analyst** with experience since **2008**.  
 I specialize in **backend test automation** using **Karate Framework**, ensuring high-quality, reliable software solutions.
 
 [🔗 My LinkedIn Profile](https://www.linkedin.com/in/paula-tapia-2b8555111/)
