@@ -63,32 +63,32 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 ---
 
 ## 🧰 Tools & Technologies :wrench:
-* [Karate framework][(https://karatelabs.github.io/karate/)]
-* [Maven][(https://maven.apache.org/)]
-* [Microsoft SQL Server][(https://www.microsoft.com/en-us/sql-server/)]
-* [Java][(https://www.java.com/)]
-* [Jira][(https://www.atlassian.com/software/jira/)]
-* [IntelliJ][(https://www.jetbrains.com/idea/)]
-* [Javascript][(https://www.javascript.com/)]
-* [Cucumber][(https://cucumber.io/)]
-* [Gherkin][(https://cucumber.io/docs/gherkin/)]
-* [Gatling][(https://gatling.io/)]
-* [Scala][(https://www.scala-lang.org/)]
-* [Jenkins][(https://www.jenkins.io/)]
-* [Xampp][(https://www.apachefriends.org/)]
-* [Postman][(https://www.postman.com/)]
-* [Phytest][(https://phytest-devs.github.io/phytest/)]
-* [Python][(https://www.python.org/)]
-* [Pycharm][(https://www.jetbrains.com/pycharm/)]
-* [Confluence][(https://www.atlassian.com/software/confluence/)]
-* [Git][(https://git-scm.com/)]
-* [GitHub][(https://github.com/)]
-* [XRay][(https://agiletest.app/software-testing-tool-for-jira)]
-* [Bitbucket][(https://bitbucket.org/)]
-* [Selenium][(https://www.selenium.dev/)]
-* [ChatGPT][(https://chatgpt.com/)] 
-* [Deepseek][(https://www.deepseek.com/)]
-* [Visual Studio Code][(https://code.visualstudio.com/)]
+* [Karate framework](https://karatelabs.github.io/karate/)
+* [Maven](https://maven.apache.org/)
+* [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/)
+* [Java](https://www.java.com/)
+* [Jira](https://www.atlassian.com/software/jira/)
+* [IntelliJ](https://www.jetbrains.com/idea/)
+* [Javascript](https://www.javascript.com/)
+* [Cucumber](https://cucumber.io/)
+* [Gherkin](https://cucumber.io/docs/gherkin/)
+* [Gatling](https://gatling.io/)
+* [Scala](https://www.scala-lang.org/)
+* [Jenkins](https://www.jenkins.io/)
+* [Xampp](https://www.apachefriends.org/)
+* [Postman](https://www.postman.com/)
+* [Phytest](https://phytest-devs.github.io/phytest/)
+* [Python](https://www.python.org/)
+* [Pycharm](https://www.jetbrains.com/pycharm/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Confluence](https://www.atlassian.com/software/confluence/)
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [XRay](https://agiletest.app/software-testing-tool-for-jira)
+* [Bitbucket](https://bitbucket.org/)
+* [Selenium](https://www.selenium.dev/)
+* [ChatGPT](https://chatgpt.com/)
+* [Deepseek](https://www.deepseek.com/)
 * CI/CD pipelines
 * Rest API testing
 * Software testing
