@@ -62,45 +62,18 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 
 ---
 
-## 🧰 Tools & Technologies :wrench:
-* [Karate framework](https://karatelabs.github.io/karate/)
-* [Maven](https://maven.apache.org/)
-* [AWS](https://aws.amazon.com/)
-* [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/)
-* [Java](https://www.java.com/)
-* [Jira](https://www.atlassian.com/software/jira/)
-* [IntelliJ](https://www.jetbrains.com/idea/)
-* [Javascript](https://www.javascript.com/)
-* [Cucumber](https://cucumber.io/)
-* [Gherkin](https://cucumber.io/docs/gherkin/)
-* [Gatling](https://gatling.io/)
-* [Scala](https://www.scala-lang.org/)
-* [Jenkins](https://www.jenkins.io/)
-* [Xampp](https://www.apachefriends.org/)
-* [Postman](https://www.postman.com/)
-* [Phytest](https://phytest-devs.github.io/phytest/)
-* [Python](https://www.python.org/)
-* [Pycharm](https://www.jetbrains.com/pycharm/)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Confluence](https://www.atlassian.com/software/confluence/)
-* [Git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [XRay](https://agiletest.app/software-testing-tool-for-jira)
-* [Bitbucket](https://bitbucket.org/)
-* [Selenium](https://www.selenium.dev/)
-* [ChatGPT](https://chatgpt.com/)
-* [Deepseek](https://www.deepseek.com/)
-* CI/CD pipelines
-* Rest API testing
-* Software testing
-* Creating test cases
-* Reporting bugs
-* Creating bug reports
-* Creating documentation
-* Performing smoke tests
-* E2E testing
-* Scrum workflow
----
+## 🧰 Tools & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| **Test Automation** | Karate Framework, Selenium, PyTest, Cucumber, Gatling |
+| **Programming** | Java, JavaScript, Python, Scala |
+| **Databases** | Microsoft SQL Server |
+| **DevOps** | Jenkins, Git, GitHub, Bitbucket, Maven, CI/CD |
+| **Platforms** | AWS, IntelliJ, PyCharm, VS Code, XAMPP |
+| **QA Processes** | REST API Testing, E2E Testing, Smoke Testing, Test Case Creation, Bug Reporting |
+| **Methodologies** | Agile, Scrum, Software Testing, Documentation |
+| **AI Tools** | ChatGPT, DeepSeek |
 
 ## 🗣 Languages
 
