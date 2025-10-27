@@ -65,6 +65,7 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 ## 🧰 Tools & Technologies :wrench:
 * [Karate framework](https://karatelabs.github.io/karate/)
 * [Maven](https://maven.apache.org/)
+* [AWS](https://aws.amazon.com/)
 * [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/)
 * [Java](https://www.java.com/)
 * [Jira](https://www.atlassian.com/software/jira/)
