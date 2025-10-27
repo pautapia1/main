@@ -110,4 +110,13 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 | French | 🟡 B1 | 🟡 Intermediate | 🟡 Intermediate | 🟡 Basic-Intermediate |
 | Portuguese | 🔵 A2 | 🔵 Basic | 🟡 Intermediate | 🔵 Basic |
 
+---
+
+## 🤝 Collaborations & Family Projects
+
+### 🎨 Creative Partnerships
+- **María Tapia** - Illustrator & Graphic Designer  
+  Professional portfolio: [Behance Profile](https://www.behance.net/mariatapia2)  
+  *Specializing in digital illustration, branding, and visual design*
+
 
