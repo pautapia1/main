@@ -67,8 +67,8 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 | Category | Technologies |
 |----------|--------------|
 | **Test Automation** | Karate Framework, Selenium, PyTest, Cucumber, Gatling |
-| **Programming** | Java, JavaScript, Python, Scala |
-| **Databases** | Microsoft SQL Server |
+| **Programming** | Java, JavaScript, Python, Scala, Visual .Net, C# |
+| **Databases** | Microsoft SQL Server, MySQL, Oracle |
 | **DevOps** | Jenkins, Git, GitHub, Bitbucket, Maven, CI/CD |
 | **Platforms** | AWS, IntelliJ, PyCharm, VS Code, XAMPP |
 | **QA Processes** | REST API Testing, E2E Testing, Smoke Testing, Test Case Creation, Bug Reporting |
